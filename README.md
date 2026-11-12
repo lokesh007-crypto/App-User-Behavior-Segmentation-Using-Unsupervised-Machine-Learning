@@ -37,7 +37,6 @@ The project report identifies four user groups:
 | 2 | Low Engagement / At-Risk Users |
 | 3 | Occasional Users |
 
-*Note: Cluster labels are based on the project report. Cluster IDs should be verified against the final trained model.*
 
 ## Dashboard Features
 - User segmentation overview
